@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Entity (0.1.0):
+    - RealmSwift
+  - ListingDetails (0.1.0):
+    - Entity
+  - Listings (0.1.0):
+    - Alamofire
+    - ListingDetails
+    - Networking
+    - RealmSwift
+    - SwiftyJSON
+  - Networking (0.1.0):
+    - Alamofire
+    - Entity
+    - RealmSwift
+    - SwiftyJSON
+  - Realm (10.50.1):
+    - Realm/Headers (= 10.50.1)
+  - Realm/Headers (10.50.1)
+  - RealmSwift (10.50.1):
+    - Realm (= 10.50.1)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - Entity (from `DevPods/Entity`)
+  - ListingDetails (from `DevPods/ListingDetails`)
+  - Listings (from `DevPods/Listings`)
+  - Networking (from `DevPods/Networking`)
+  - RealmSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Entity:
+    :path: DevPods/Entity
+  ListingDetails:
+    :path: DevPods/ListingDetails
+  Listings:
+    :path: DevPods/Listings
+  Networking:
+    :path: DevPods/Networking
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Entity: 93564953eb3c3ff11078415dd0463df89d37be84
+  ListingDetails: e42368f6ac8545de90ffbf4a38f4922787a12219
+  Listings: dc7460752e7134ff1eb56ed188462431d6e86b3a
+  Networking: 19be784f084a45ce422f3184e0bd2eba2eec16fd
+  Realm: 36bc9fe2681d7cf234aa487e7990821c772206a2
+  RealmSwift: 84a370d3d4f191d327a9f8ade1f064a274f79847
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: 5abbecddfe13a1b7806052faac79f41d9efd51af
+
+COCOAPODS: 1.15.2

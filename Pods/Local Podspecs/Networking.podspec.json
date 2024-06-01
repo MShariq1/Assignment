@@ -1,0 +1,37 @@
+{
+  "name": "Networking",
+  "version": "0.1.0",
+  "summary": "A short description of Networking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/M.Shariq Hasnain/Networking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "M.Shariq Hasnain": "shariqh311@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/M.Shariq Hasnain/Networking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Networking/Module/**/*.{swift}",
+  "resources": "Networking/Module/**/*.{xcasssets,json,storyboard,xib,xcdatamodeld}",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "RealmSwift": [
+
+    ],
+    "Entity": [
+
+    ]
+  }
+}

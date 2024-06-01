@@ -1,0 +1,16 @@
+PODS:
+  - Entity (0.1.0)
+
+DEPENDENCIES:
+  - Entity (from `../`)
+
+EXTERNAL SOURCES:
+  Entity:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Entity: 59698b2543138029d7fb631ef810ab67274eb397
+
+PODFILE CHECKSUM: 2b326bd38acdc7919a127e4d3148cbb5539ac3c5
+
+COCOAPODS: 1.15.2

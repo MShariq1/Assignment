@@ -1,0 +1,6 @@
+framework module ListingDetails {
+  umbrella header "ListingDetails-umbrella.h"
+
+  export *
+  module * { export * }
+}

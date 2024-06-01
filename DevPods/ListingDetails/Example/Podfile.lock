@@ -1,0 +1,16 @@
+PODS:
+  - ListingDetails (0.1.0)
+
+DEPENDENCIES:
+  - ListingDetails (from `../`)
+
+EXTERNAL SOURCES:
+  ListingDetails:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ListingDetails: 8056ed345999d2539e277d651ae6648f65714ded
+
+PODFILE CHECKSUM: ce703449a1cc3f1bfd9ab805d897673e06752977
+
+COCOAPODS: 1.15.2

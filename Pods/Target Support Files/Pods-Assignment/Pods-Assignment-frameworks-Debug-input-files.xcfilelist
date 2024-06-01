@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-Assignment/Pods-Assignment-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Entity/Entity.framework
+${BUILT_PRODUCTS_DIR}/ListingDetails/ListingDetails.framework
+${BUILT_PRODUCTS_DIR}/Listings/Listings.framework
+${BUILT_PRODUCTS_DIR}/Networking/Networking.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

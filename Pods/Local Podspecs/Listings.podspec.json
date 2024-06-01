@@ -1,0 +1,40 @@
+{
+  "name": "Listings",
+  "version": "0.1.0",
+  "summary": "A short description of Listings.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/M.Shariq Hasnain/Listings",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "M.Shariq Hasnain": "shariqh311@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/M.Shariq Hasnain/Listings.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Listings/Module/**/*.{swift}",
+  "resources": "Listings/Module/**/*.{xcasssets,json,storyboard,xib,xcdatamodeld}",
+  "dependencies": {
+    "RealmSwift": [
+
+    ],
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "Networking": [
+
+    ],
+    "ListingDetails": [
+
+    ]
+  }
+}
